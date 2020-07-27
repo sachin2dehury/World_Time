@@ -1,6 +1,9 @@
-# world_time
+# World Time
 
-A new Flutter application.
+WorldTime APP - Used WolrdTime API for the data.Used Flutter for a rich User experience.
+
+Shows Country Time From a given List of Countries.
+
 
 ## Getting Started
 
